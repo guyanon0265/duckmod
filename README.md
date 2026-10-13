@@ -2,6 +2,7 @@
 
 A Java mod that adds ducks to Minecraft.  
 The repo is currently under construction. Its current purpose is to track issues.
+All source .jar files are available on Modrinth.
 
 To download the mod or its addon counterpart, please see below.  
 
