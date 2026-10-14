@@ -1,0 +1,17 @@
+"fabric":
+  - "Fabric"
+
+"neoforge":
+  - "NeoForge"
+
+"severity:critical":
+  - "Critical - Game crashes due to issue in mod"
+
+"severity:high":
+  - "High - Mod behaves incorrectly or causes game to behave incorrectly"
+
+"severity:low":
+  - "Low - Mod has issues that do not affect gameplay"
+
+"triage":
+  - "-Select-"
